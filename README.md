@@ -1,14 +1,14 @@
 ![demo](https://github.com/akahamzidollar/akahamzidollar/assets/124251846/c7448f7e-1c70-4779-9524-88bb102e5273)
 <h1 align="center"> Hi 👋, I'm Ali Hamza aka hamziDollar</h1>
 	
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <br>
 <br>
 
 ## 🙋‍♂️ About Me
 
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Firebase, Nestjs**
 
 - 📫 How to reach me **alihamzan295@gmail.com**
 
